@@ -2,6 +2,7 @@ name: pluquet
 favicon: null
 layout_spectrum: 0.13109335163608193
 typography_spectrum: 0.41667180717922747
+title: A blog about the meaning of life
 cta:
   domain: null
   bucket: null
