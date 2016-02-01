@@ -1,0 +1,28 @@
+name: pluquet
+favicon: null
+layout_spectrum: 0.13109335163608193
+typography_spectrum: 0.41667180717922747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8794956079218537
+  lightness: 0.9653869839385152
+  saturation: 0.5938987261615694
+  rhythmicContrast: 0.3723318572156131
+purpose: []
