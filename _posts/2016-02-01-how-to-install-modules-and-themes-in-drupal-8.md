@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T18:40:43.204Z'
+datePublished: '2016-02-01T18:40:43.224Z'
 dateModified: '2016-02-01T18:40:40.622Z'
 title: How to install modules and themes in drupal 8
 author: []
