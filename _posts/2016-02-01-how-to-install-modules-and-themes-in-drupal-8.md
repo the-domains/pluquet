@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T18:40:36.178Z'
-dateModified: '2016-02-01T18:40:32.342Z'
+datePublished: '2016-02-01T18:40:43.204Z'
+dateModified: '2016-02-01T18:40:40.622Z'
 title: How to install modules and themes in drupal 8
 author: []
 sourcePath: _posts/2016-02-01-how-to-install-modules-and-themes-in-drupal-8.md
